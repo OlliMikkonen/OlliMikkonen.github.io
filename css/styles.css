@@ -90,7 +90,7 @@ img {
   font-weight: 300;
 }
 #intro h2 {
-  font-size: 3rem;
+  font-size: 1.5rem;
 }
 
 /* Contact section */
@@ -260,5 +260,8 @@ footer ul {
     flex-basis: auto;
     text-align: left;
     margin-right: auto;
+  }
+  #intro h2 {
+    font-size: 4rem;
   }
 }
